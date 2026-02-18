@@ -5,7 +5,7 @@
    
 # Keycode Mapping Reference
 
-This table provides the mapping between numeric keycodes and their system events.
+This table maps numeric keycodes to their corresponding system events.
 
 | KEYCODE | EVENT |
 | :--- | :--- |
@@ -34,11 +34,12 @@ This table provides the mapping between numeric keycodes and their system events
 | 64 | EXPLORER |
 | 65 | ENVELOPE |
 | 66 | ENTER |
+| 82 | MENU |
 | 83 | NOTIFICATION |
 | 84 | SEARCH |
 | 279 | PASTE CODE |
 
 # Basic commands
- - `adb devices`
-List of devices attached
+ - `adb devices` 
+List of devices attached 
 236f489a        device
