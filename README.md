@@ -48,11 +48,13 @@ This table maps numeric keycodes to their corresponding system events.
  - ```
    adb shell  
    ```
-      ```fuxi:/ $
-          input keyevent 26
       ```
-      fuxi:/ $ input swipe 300 1000 300 500
-      fuxi:/ $ input text 1234 && input keyevent 66
+          input keyevent 26
+          input swipe 300 1000 300 500  
+          input text 1234 && input keyevent 66  
+      ```
+      fuxi:/ $ 
+      fuxi:/ $ 
  - pm list packages
  - top -b -n 1 -d 0.1 -o %CPU,%MEM
  - pm uninstall -k --user 0 
