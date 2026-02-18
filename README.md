@@ -45,4 +45,7 @@ This table maps numeric keycodes to their corresponding system events.
    ```
       List of devices attached  
       236f489a     &emsp;   device
-
+ - ```
+   adb shell  
+   ```
+      fuxi:/ $ input keyevent 61  
