@@ -64,7 +64,7 @@ This table maps numeric keycodes to their corresponding system events.
         top -b -n 1 -d 0.1 -o %CPU,%MEM
       ```
       ```
-        pm uninstall -k --user 0 com.xiaomi.mipicks
+        pm uninstall -k --user 0 com.mi.globalbrowser
       ```
  - 
  - pm uninstall -k --user 0 
