@@ -1,7 +1,7 @@
 # Requisite
  - Download driver from https://adb.clockworkmod.com/
- - Install it
- - Add the installation path to the PATH environemnt variable
+ - Install the driver.
+ - Add the installation path to the PATH environment variable.
    
 # Keycode Mapping Reference
 
