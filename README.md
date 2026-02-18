@@ -66,11 +66,11 @@ This table maps numeric keycodes to their corresponding system events.
       ```
         pm uninstall -k --user 0 com.mi.globalbrowser
       ```
- - 
- - pm uninstall -k --user 0 
-	- com.xiaomi.mipicks
-	- com.xiaomi.glgm
-	- com.android.mms
- - dumpsys battery
- - reboot -p<img width="329" height="162" alt="image" src="https://github.com/user-attachments/assets/922470ad-f5f7-4f2d-94f1-b9090a45b5b8" />
+      ```
+        dumpsys battery
+      ```
+      ```
+        reboot -p
+      ```
+
 
