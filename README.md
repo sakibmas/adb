@@ -41,5 +41,7 @@ This table maps numeric keycodes to their corresponding system events.
 
 # Basic commands
  - `adb devices`
-   ```List of devices attached  
-      236f489a        device  
+   ```
+      List of devices attached  
+      236f489a        device
+   ```
