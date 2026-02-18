@@ -31,8 +31,8 @@ This table maps numeric keycodes to their corresponding system events.
 | 27 | CAMERA |
 | 28 | CLEAR |
 | 61 | TAB |
-| 64 | EXPLORER |
-| 65 | ENVELOPE |
+| 64 | BROWSER |
+| 65 | MAIL |
 | 66 | ENTER |
 | 82 | MENU |
 | 83 | NOTIFICATION |
