@@ -1,4 +1,8 @@
-# adb
+# Requisite
+ - Download driver from https://adb.clockworkmod.com/
+ - Install it
+ - Add the installation path to the PATH environemnt variable
+   
 # Keycode Mapping Reference
 
 This table provides the mapping between numeric keycodes and their system events.
