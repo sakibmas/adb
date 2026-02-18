@@ -1,4 +1,4 @@
-# Requisite
+# Pre-requisite
  - Download driver from https://adb.clockworkmod.com/
  - Install the driver.
  - Add the installation path to the PATH environment variable.
@@ -37,3 +37,8 @@ This table provides the mapping between numeric keycodes and their system events
 | 83 | NOTIFICATION |
 | 84 | SEARCH |
 | 279 | PASTE CODE |
+
+# Basic commands
+ - > adb devices
+List of devices attached
+236f489a        device
