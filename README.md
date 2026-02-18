@@ -1,4 +1,4 @@
-# adb
+<img width="110" height="19" alt="image" src="https://github.com/user-attachments/assets/4ae084f3-2742-497c-8c42-4ee5372c1f5e" /># adb
 # Keycode Mapping Reference
 
 This table provides the mapping between numeric keycodes and their system events.
@@ -31,3 +31,5 @@ This table provides the mapping between numeric keycodes and their system events
 | 65 | ENVELOPE |
 | 66 | ENTER |
 | 83 | NOTIFICATION |
+| 84 | SEARCH |
+| 279 | PASTE CODE |
