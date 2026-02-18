@@ -48,4 +48,15 @@ This table maps numeric keycodes to their corresponding system events.
  - ```
    adb shell  
    ```
-      fuxi:/ $ input keyevent 61  
+      fuxi:/ $ input keyevent 26
+      fuxi:/ $ input swipe 300 1000 300 500
+      fuxi:/ $ input text 1234 && input keyevent 66
+ - pm list packages
+ - top -b -n 1 -d 0.1 -o %CPU,%MEM
+ - pm uninstall -k --user 0 
+	- com.xiaomi.mipicks
+	- com.xiaomi.glgm
+	- com.android.mms
+ - dumpsys battery
+ - reboot -p<img width="329" height="162" alt="image" src="https://github.com/user-attachments/assets/922470ad-f5f7-4f2d-94f1-b9090a45b5b8" />
+
