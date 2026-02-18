@@ -43,8 +43,8 @@ This table maps numeric keycodes to their corresponding system events.
  - ```
    adb devices  
    ```
-      List of devices attached  
-      236f489a     &emsp;   device
+     &ensp;  List of devices attached  
+     &ensp;  236f489a     &emsp;   device
  - ```
    adb shell  
    ```
