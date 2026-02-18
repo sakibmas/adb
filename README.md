@@ -57,10 +57,16 @@ This table maps numeric keycodes to their corresponding system events.
       ```
         input text 1234 && input keyevent 66  
       ```
-      fuxi:/ $ 
-      fuxi:/ $ 
- - pm list packages
- - top -b -n 1 -d 0.1 -o %CPU,%MEM
+      ```
+        pm list packages
+      ```
+      ```
+        top -b -n 1 -d 0.1 -o %CPU,%MEM
+      ```
+      ```
+        pm uninstall -k --user 0 com.xiaomi.mipicks
+      ```
+ - 
  - pm uninstall -k --user 0 
 	- com.xiaomi.mipicks
 	- com.xiaomi.glgm
