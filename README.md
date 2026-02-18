@@ -50,7 +50,11 @@ This table maps numeric keycodes to their corresponding system events.
    ```
       ```
           input keyevent 26
-          input swipe 300 1000 300 500  
+      ```
+      ```
+          input swipe 300 1000 300 500
+      ```
+      ```
           input text 1234 && input keyevent 66  
       ```
       fuxi:/ $ 
