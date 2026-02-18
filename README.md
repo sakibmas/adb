@@ -9,7 +9,7 @@ This table provides the mapping between numeric keycodes and their system events
 
 | KEYCODE | EVENT |
 | :--- | :--- |
-| 1 | MENU |
+| 1 | SOFT_LEFT |
 | 2 | SOFT_RIGHT |
 | 3 | HOME |
 | 4 | BACK |
@@ -39,6 +39,6 @@ This table provides the mapping between numeric keycodes and their system events
 | 279 | PASTE CODE |
 
 # Basic commands
- - > adb devices
+ - `adb devices`
 List of devices attached
 236f489a        device
